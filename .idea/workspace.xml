@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 9" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AjayVelanchery&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AjayVelanchery/SelfLearningJava.git&quot;,
+    &quot;accountId&quot;: &quot;099ba5d1-2688-4dbc-bfe7-fd0f05086d17&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2y2bHFW1BxS4MIj38ep4y7CRzOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Debug",
+    "Application.DataTypes.executor": "Run",
+    "Application.Even.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.Integer.executor": "Run",
+    "Application.Multiplication.executor": "Run",
+    "Application.Operators.executor": "Run",
+    "Application.Patterns.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Search.executor": "Run",
+    "Application.Sum.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.WeekDay.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/bridgeon/IdeaProjects/SelfLearningJava"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="" />
+      <created>1749035525362</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749035525362</updated>
+    </task>
+    <task id="LOCAL-00001" summary="June 5">
+      <option name="closed" value="true" />
+      <created>1749104482266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749104482266</updated>
+    </task>
+    <task id="LOCAL-00002" summary="June 5">
+      <option name="closed" value="true" />
+      <created>1749104607802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749104607802</updated>
+    </task>
+    <task id="LOCAL-00003" summary="June 5">
+      <option name="closed" value="true" />
+      <created>1749201928088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749201928088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="June 6">
+      <option name="closed" value="true" />
+      <created>1749202129461</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749202129461</updated>
+    </task>
+    <task id="LOCAL-00005" summary="June 6">
+      <option name="closed" value="true" />
+      <created>1749202201483</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749202201483</updated>
+    </task>
+    <task id="LOCAL-00006" summary="June 6">
+      <option name="closed" value="true" />
+      <created>1749202278337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749202278337</updated>
+    </task>
+    <task id="LOCAL-00007" summary="June 9">
+      <option name="closed" value="true" />
+      <created>1749375039796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749375039796</updated>
+    </task>
+    <task id="LOCAL-00008" summary="June 9">
+      <option name="closed" value="true" />
+      <created>1749375060444</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749375060444</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="June 5" />
+    <MESSAGE value="June 6" />
+    <MESSAGE value="June 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="June 9" />
+  </component>
+</project>
