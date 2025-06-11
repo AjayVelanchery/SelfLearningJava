@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 9" />
+    <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 9">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June4/DataTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June4/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June4/TypeConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June5/GradeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June5/NumberCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June5/WeekDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June6/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June6/Multiplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June6/Patterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June6/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June6/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June9/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June9/Even.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June9/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/June 4/June9/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June6/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June6/Sum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,12 +54,12 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AjayVelanchery/SelfLearningJava.git&quot;,
+    &quot;url&quot;: &quot;git@github.com:AjayVelanchery/SelfLearningJava.git&quot;,
     &quot;accountId&quot;: &quot;099ba5d1-2688-4dbc-bfe7-fd0f05086d17&quot;
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -53,22 +73,29 @@
   "keyToString": {
     "Application.Array.executor": "Debug",
     "Application.DataTypes.executor": "Run",
+    "Application.Dog.executor": "Run",
     "Application.Even.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
     "Application.Integer.executor": "Run",
     "Application.Multiplication.executor": "Run",
+    "Application.OOP.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.Patterns.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.Search.executor": "Run",
+    "Application.StringLearning.executor": "Debug",
     "Application.Sum.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.WeekDay.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/bridgeon/IdeaProjects/SelfLearningJava"
+    "last_opened_file_path": "/home/bridgeon/IdeaProjects/Hello world",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="TaskManager">
@@ -143,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749375060444</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="June 9">
+      <option name="closed" value="true" />
+      <created>1749376122541</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749376122541</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
