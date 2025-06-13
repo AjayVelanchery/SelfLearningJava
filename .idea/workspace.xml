@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
+      <change afterPath="$PROJECT_DIR$/src/June13/Encapsluate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June11/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/June11/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June11/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/June11/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June11/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June11/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June11/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June11/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June12/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/June12/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June12/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June12/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -60,10 +60,12 @@
     "Application.Array.executor": "Debug",
     "Application.DataTypes.executor": "Run",
     "Application.Dog.executor": "Run",
+    "Application.Encapsluate.executor": "Run",
     "Application.Even.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
     "Application.Integer.executor": "Run",
+    "Application.LearnPrivate.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Multiplication.executor": "Run",
     "Application.OOP.executor": "Run",
@@ -73,12 +75,16 @@
     "Application.Search.executor": "Run",
     "Application.StringLearning.executor": "Debug",
     "Application.Sum.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.WeekDay.executor": "Run",
     "Application.constructors.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/bridgeon/IdeaProjects/Hello world",
     "project.structure.last.edited": "Project",
@@ -86,6 +92,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="June13" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="" />
