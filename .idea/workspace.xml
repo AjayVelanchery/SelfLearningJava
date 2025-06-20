@@ -65,6 +65,9 @@
     "Application.Even.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
+    "Application.HashSetDemo2.executor": "Run",
+    "Application.HashSetDemo3.executor": "Run",
+    "Application.HashsetLearning.executor": "Run",
     "Application.Inherit1.executor": "Run",
     "Application.Inherit2.executor": "Run",
     "Application.InheritanceTask.executor": "Run",
@@ -217,5 +220,16 @@
     <MESSAGE value="June 9" />
     <MESSAGE value="June 11" />
     <option name="LAST_COMMIT_MESSAGE" value="June 11" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/June20/HashsetLearning.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
