@@ -91,6 +91,7 @@
     "Application.Sum.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ThisAndSuper.executor": "Run",
+    "Application.TryCatch.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.WeekDay.executor": "Run",
     "Application.constructors.executor": "Run",
