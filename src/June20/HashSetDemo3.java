@@ -24,6 +24,9 @@ public class HashSetDemo3 {
         set2.add(4);
         set2.add(5);
 
+        HashSet<Integer>set3=new HashSet<>();
+
+
 
 
 
