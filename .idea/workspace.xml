@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June20/HashSetDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June20/HashSetDemo3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +65,7 @@
     "Application.Even.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
     "Application.HashSetDemo2.executor": "Run",
     "Application.HashSetDemo3.executor": "Run",
     "Application.HashsetLearning.executor": "Run",
