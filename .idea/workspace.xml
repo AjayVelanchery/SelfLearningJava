@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11" />
+    <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Search.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +89,7 @@
     "Application.Polymorphism.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.Search.executor": "Run",
+    "Application.Sorting.executor": "Run",
     "Application.Static.executor": "Run",
     "Application.StaticLearning.executor": "Run",
     "Application.StringLearning.executor": "Debug",
