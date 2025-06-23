@@ -6,7 +6,23 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/GenericsLearning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/June22/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June18/StringLessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June18/StringLessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June19/ArraylitstLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June19/ArraylitstLearn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June19/CheckedandUncheked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June19/CheckedandUncheked.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June19/LinkdelistLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June19/LinkdelistLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June20/HashSetDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June20/HashSetDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June20/HashSetDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June20/HashSetDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June20/HashsetLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June20/HashsetLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June20/TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June20/TryCatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June21/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June21/HashMapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June21/LinkedHashmapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June21/LinkedHashmapDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June22/GenericsLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June22/GenericsLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June22/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June22/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Sorting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +82,7 @@
     "Application.Encapsluate.executor": "Run",
     "Application.Even.executor": "Run",
     "Application.Factorial.executor": "Run",
+    "Application.FileWriting.executor": "Run",
     "Application.GenericsLearning.executor": "Run",
     "Application.GradeCalculator.executor": "Run",
     "Application.HashMapDemo.executor": "Run",
@@ -75,6 +92,7 @@
     "Application.Inherit1.executor": "Run",
     "Application.Inherit2.executor": "Run",
     "Application.InheritanceTask.executor": "Run",
+    "Application.Input_Output.executor": "Run",
     "Application.Integer.executor": "Run",
     "Application.InterfaceLearning.executor": "Run",
     "Application.LearnPrivate.executor": "Run",
@@ -232,7 +250,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/June20/HashsetLearning.java</url>
+          <url>file://$PROJECT_DIR$/src/Week3/June20/HashsetLearning.java</url>
           <line>37</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
