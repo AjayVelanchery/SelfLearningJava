@@ -18,7 +18,7 @@ catch (Exception e){
 try {
 
     System.out.println("2");
-    int a = 100, b = 2, c;
+    int a = 100, b = 0, c;
     System.out.println("3");
     c = a / b;
     System.out.println("4");

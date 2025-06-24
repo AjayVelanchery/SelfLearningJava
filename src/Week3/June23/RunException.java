@@ -16,7 +16,7 @@ class UnderException extends RuntimeException{
 
 class RunException {
     public static void main(String[] args) {
-        int age=19;
+        int age=16;
 
             if(age<18){
                 throw new UnderException("You cannot vote");
@@ -24,6 +24,7 @@ class RunException {
             else {
                 System.out.println("You can vote");
             }
+        System.out.println("hi");
 
     }
 }

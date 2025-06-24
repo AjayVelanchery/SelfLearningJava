@@ -22,5 +22,6 @@ public class CustomException {
         catch (UnderAgeException e){
             e.printStackTrace();
         }
+
     }
 }
