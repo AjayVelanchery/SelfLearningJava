@@ -80,6 +80,8 @@
     "Application.Input_Output.executor": "Run",
     "Application.Integer.executor": "Run",
     "Application.InterfaceLearning.executor": "Run",
+    "Application.LambdaExpression.executor": "Run",
+    "Application.LambdexpressionDemo1.executor": "Run",
     "Application.LearnPrivate.executor": "Run",
     "Application.LinkdelistLearning.executor": "Run",
     "Application.LinkedHashmapDemo.executor": "Run",
