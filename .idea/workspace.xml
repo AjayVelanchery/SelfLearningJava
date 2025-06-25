@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/Week3/June24/LambdexpressionDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/Week3/June24/number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week3/June24/LambdexpressionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June24/LambdexpressionDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
         <option value="JUnit5 Test Class" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -53,77 +57,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Abstraction.executor": "Run",
-    "Application.Array.executor": "Debug",
-    "Application.ArraylitstLearn.executor": "Run",
-    "Application.BankAccount.executor": "Run",
-    "Application.CheckedandUncheked.executor": "Run",
-    "Application.CustomException.executor": "Run",
-    "Application.DataTypes.executor": "Run",
-    "Application.Dog.executor": "Run",
-    "Application.Encapsluate.executor": "Run",
-    "Application.Even.executor": "Run",
-    "Application.ExceptionThrows.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.FileWriting.executor": "Run",
-    "Application.GenericsLearning.executor": "Run",
-    "Application.GradeCalculator.executor": "Run",
-    "Application.HashMapDemo.executor": "Run",
-    "Application.HashSetDemo2.executor": "Run",
-    "Application.HashSetDemo3.executor": "Run",
-    "Application.HashsetLearning.executor": "Run",
-    "Application.Inherit1.executor": "Run",
-    "Application.Inherit2.executor": "Run",
-    "Application.InheritanceTask.executor": "Run",
-    "Application.Input_Output.executor": "Run",
-    "Application.Integer.executor": "Run",
-    "Application.InterfaceLearning.executor": "Run",
-    "Application.LambdaExpression.executor": "Run",
-    "Application.LambdexpressionDemo1.executor": "Run",
-    "Application.LearnPrivate.executor": "Run",
-    "Application.LinkdelistLearning.executor": "Run",
-    "Application.LinkedHashmapDemo.executor": "Run",
-    "Application.Methods.executor": "Run",
-    "Application.Multiplication.executor": "Run",
-    "Application.MyClass.executor": "Run",
-    "Application.OOP.executor": "Run",
-    "Application.Operators.executor": "Run",
-    "Application.Patterns.executor": "Run",
-    "Application.Polymorphism.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.Review.executor": "Run",
-    "Application.RunException.executor": "Run",
-    "Application.Search.executor": "Run",
-    "Application.Sorting.executor": "Run",
-    "Application.Static.executor": "Run",
-    "Application.StaticLearning.executor": "Run",
-    "Application.StringLearning.executor": "Debug",
-    "Application.StringLessons.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.ThisAndSuper.executor": "Run",
-    "Application.TryCatch.executor": "Run",
-    "Application.TypeConversion.executor": "Run",
-    "Application.UnderException.executor": "Run",
-    "Application.WeekDay.executor": "Run",
-    "Application.WrapperClasses.executor": "Run",
-    "Application.constructors.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/bridgeon/IdeaProjects/Hello world",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.language.and.region"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArraylitstLearn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckedandUncheked.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsluate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Even.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionThrows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FileWriting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashsetLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inherit1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inherit2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InheritanceTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Input_Output.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambdacollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambdexpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdexpressionDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LearnPrivate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkdelistLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashmapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Patterns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Review.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Static.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringLearning.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.StringLessons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThisAndSuper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UnderException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WeekDay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.constructors.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bridgeon/IdeaProjects/Hello world&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
