@@ -2,6 +2,10 @@ package Week3.June24.Tutorial;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Predicate;
+import java.util.function.Supplier;
 
 public class Main {
 
@@ -22,9 +26,37 @@ HotelService hotelService=new HotelService();
 
   );
     List<Integer>lst=List.of(1,2,3,4,5);
-        Collections.sort(lst,(Integer a,Integer b)->{return b-a;});
+//        Collections.sort(lst,(Integer a,Integer b)->{return b-a;});
+//
+//        System.out.println("List of hotels price less than 2000="+hotels);
 
-        System.out.println("List of hotels price less than 2000="+hotels);
+       Predicate<Integer> divisibleBy2=no->no%2==0;
+       Predicate<Integer> divisibleBy3=no->no%3==0;
+
+       Predicate<Integer>divisibleBy6=divisibleBy2.or(divisibleBy3);
+       System.out.println(divisibleBy6.test(6));
+
+        Consumer<Integer>consumer=a ->System.out.print(a);
+        lst.forEach(consumer);
+
+        Supplier<Double>supplier=()->Math.random();
+        System.out.println(supplier.get());
+
+        Function<Integer ,Integer>squares=a->a*a;
+        Function<Integer,Integer>addOne=a->a*a;
+
+        Integer len= squares.andThen(addOne).apply(6);
+        System.out.println(len);
+
+//
+//        Integer len=squares.andThen(addOne);
+//        System.out.println(len);
+//        List<Hotel>hotels=hotelService.filterHotels(lambdaExp);
+//        Function<String,Integer>strToLenMap=(String)->string.length();
+//
+//        Integer len=strToLenMap.apply("Ajay");
+//        System.out.println(len);
+
 //
 //        List<Hotel> fiveStars=hotelService.filterHotels(new FilteringCondition() {
 //            @Override
