@@ -9,10 +9,10 @@ public class HotelService {
 
     public HotelService(){
         hotels.add(new Hotel(2000,2,HotelType.THREE_STAR));
-        hotels.add(new Hotel(1000,1,HotelType.THREE_STAR));
+        hotels.add(new Hotel(1000,1,HotelType.FOUR_STAR));
         hotels.add(new Hotel(10000,4,HotelType.THREE_STAR));
         hotels.add(new Hotel(20000,5,HotelType.THREE_STAR));
-        hotels.add(new Hotel(5000,3,HotelType.THREE_STAR));
+        hotels.add(new Hotel(5000,3,HotelType.FIVE_STAR));
     }
 //    private boolean isHotelLessThan(int price, Hotel hotel) {
 //        return hotel.getPricePerNight()<=price;
