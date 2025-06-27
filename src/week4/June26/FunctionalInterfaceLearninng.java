@@ -13,8 +13,6 @@ package week4.June26;
 //    }
 //}
 
-import java.util.function.Consumer;
-import java.util.function.Function;
 import java.util.function.Predicate;
 
 class FunctionalInterfaceLearning{

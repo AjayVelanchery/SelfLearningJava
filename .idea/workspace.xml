@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/Week3/June24/Tutorial/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/Week3/June24/Tutorial/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/Week3/June26/FunctionalInterfaceLearninng.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/Week3/June26/addtwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week3/June24/Tutorial/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/week4/June26/FunctionalInterfaceLearninng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week4/June26/FunctionalInterfaceLearninng.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +70,7 @@
     "Application.ExceptionThrows.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FileWriting.executor": "Run",
+    "Application.FilterLearning.executor": "Run",
     "Application.FunctionalInterfaceLearning.executor": "Run",
     "Application.FunctionalInterfaceLearninng.executor": "Run",
     "Application.GenericsLearning.executor": "Run",
@@ -107,6 +104,7 @@
     "Application.Review.executor": "Run",
     "Application.RunException.executor": "Run",
     "Application.Search.executor": "Run",
+    "Application.SortedStreamDemo.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.Static.executor": "Run",
     "Application.StaticLearning.executor": "Run",
