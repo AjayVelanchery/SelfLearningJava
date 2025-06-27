@@ -3,6 +3,7 @@ package week4.June27;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class ReduceLearning {
@@ -17,8 +18,10 @@ public class ReduceLearning {
 //                .reduce((n1,n2)->n1+n2));
 
         Integer ls1=ls.stream().reduce(0,(n1,n2)->n1+n2);
-
+        Optional<Integer> ls2=ls.stream().reduce((n1, n2)->n1>n2?n1:n2);
+        ls2.ifPresent(System.out::println);
         System.out.println(ls1);
+        System.out.println(ls2);
 
     }
 }
