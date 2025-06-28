@@ -97,6 +97,7 @@
     "Application.LocalClock.executor": "Run",
     "Application.LocalDate.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MethodReferene.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Multiplication.executor": "Run",
     "Application.MyClass.executor": "Run",
