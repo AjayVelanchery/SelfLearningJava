@@ -6,101 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June11/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June11/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June11/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June11/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June11/OOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June11/OOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June11/StringLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June11/StringLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June11/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June11/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June12/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June12/Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June12/constructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June12/constructors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June5/GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June5/GradeCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June5/NumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June5/NumberCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June5/WeekDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June5/WeekDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June6/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June6/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June6/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June6/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June6/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June6/Patterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June6/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June6/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June6/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June6/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June9/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June9/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June9/Even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June9/Even.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June9/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June9/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/June9/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/June9/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week1/TypeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/Encapsluate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/Encapsluate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/Inherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/Inherit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/Inherit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/Inherit1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/Inherit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/Inherit2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/LearnDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/LearnDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/LearnPrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/LearnPrivate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/LearnPublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/LearnPublic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/Learnprotected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/Learnprotected.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June13/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June13/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June14/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June14/Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June14/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June14/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June14/InterfaceLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June14/InterfaceLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June14/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June14/Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June14/ThisAndSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June14/ThisAndSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June15/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June15/Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Bank_ABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Bank_ABC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Bank_DEF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Bank_DEF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Bank_XYZ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Bank_XYZ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/InheritanceTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/InheritanceTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Polygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June16/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June16/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June17/AbstractLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June17/AbstractLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week2/June17/StaticLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week2/June17/StaticLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June18/StringLessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June18/StringLessons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June19/ArraylitstLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June19/ArraylitstLearn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June19/CheckedandUncheked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June19/CheckedandUncheked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June19/LinkdelistLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June19/LinkdelistLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June20/HashSetDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June20/HashSetDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June20/HashSetDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June20/HashSetDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June20/HashsetLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June20/HashsetLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June20/TryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June20/TryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June21/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June21/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June21/LinkedHashmapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June21/LinkedHashmapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June22/GenericsLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June22/GenericsLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/ExceptionThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/ExceptionThrows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/FileReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/FileReading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/FileWriting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/FileWriting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/RunException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/RunException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/WrapperClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/art.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/art.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June23/poem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/poem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/LambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/LambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Lambdacollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Lambdacollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/LambdexpressionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/LambdexpressionDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Tutorial/FilteringCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/FilteringCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Tutorial/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Tutorial/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/HotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Tutorial/HotelType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/HotelType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week3/June24/Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June26/FunctionalInterfaceLearninng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June26/FunctionalInterfaceLearninng.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June26/StreamDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June26/StreamDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June27/FilterLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June27/FilterLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June27/ForEachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June27/ForEachDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June27/ReduceLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June27/ReduceLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June27/SortedStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June27/SortedStreamDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June27/StreamDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June27/StreamDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June27/Task/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June27/Task/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/DurationandPeriod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/DurationandPeriod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/Greeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/LocalClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/LocalClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/MethodReferene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/MethodReferene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/OptionalLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/OptionalLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week4/June28/Zoned.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June28/Zoned.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,6 +111,7 @@
     "Application.Review.executor": "Run",
     "Application.RunException.executor": "Run",
     "Application.Search.executor": "Run",
+    "Application.SortExample.executor": "Run",
     "Application.SortedStreamDemo.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.Static.executor": "Run",
