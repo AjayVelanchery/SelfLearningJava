@@ -6,16 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June23/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/CustomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/LambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/LambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Lambdacollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Lambdacollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/LambdexpressionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/LambdexpressionDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/FilteringCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/FilteringCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/HotelService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/HotelType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/HotelType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +64,7 @@
     "Application.Calculator.executor": "Run",
     "Application.CalculatorImp1.executor": "Run",
     "Application.CheckedandUncheked.executor": "Run",
+    "Application.ConsumerDemo.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.DataTypes.executor": "Run",
     "Application.Dog.executor": "Run",
@@ -118,12 +109,15 @@
     "Application.OptionalLearning.executor": "Run",
     "Application.Patterns.executor": "Run",
     "Application.Polymorphism.executor": "Run",
+    "Application.PredicateDemo.executor": "Run",
     "Application.PrimeNumber.executor": "Run",
     "Application.ReduceLearning.executor": "Run",
     "Application.Review.executor": "Run",
     "Application.RunException.executor": "Run",
     "Application.Search.executor": "Run",
+    "Application.SortDemoMap.executor": "Run",
     "Application.SortExample.executor": "Run",
+    "Application.SortListDemo.executor": "Run",
     "Application.SortedStreamDemo.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.Static.executor": "Run",
@@ -133,6 +127,8 @@
     "Application.StringLearning.executor": "Debug",
     "Application.StringLessons.executor": "Run",
     "Application.Sum.executor": "Run",
+    "Application.SupplierDemo.executor": "Run",
+    "Application.TaskService.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ThisAndSuper.executor": "Run",
     "Application.ThreadTester.executor": "Run",
