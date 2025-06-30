@@ -6,6 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June23/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/Week3/June23/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/LambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/LambdaExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Lambdacollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Lambdacollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/LambdexpressionDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/LambdexpressionDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/FilteringCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/FilteringCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/HotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/HotelType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/HotelType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/June/Week3/June24/Tutorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/June/week4/June24/Tutorial/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +70,9 @@
     "Application.Array.executor": "Debug",
     "Application.ArraylitstLearn.executor": "Run",
     "Application.BankAccount.executor": "Run",
+    "Application.BookService.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.CalculatorImp1.executor": "Run",
     "Application.CheckedandUncheked.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.DataTypes.executor": "Run",
@@ -147,6 +159,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="June.week4.June29" />
       <recent name="Week3.June24.Tutorial" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">

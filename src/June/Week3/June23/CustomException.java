@@ -1,5 +1,5 @@
 package June.Week3.June23;
-
+//checked
 class UnderAgeException extends Exception{
 
     UnderAgeException(){

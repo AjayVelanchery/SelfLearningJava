@@ -1,4 +1,4 @@
-package June.Week3.June24;
+package June.week4.June24;
 
 
 interface Functional{
