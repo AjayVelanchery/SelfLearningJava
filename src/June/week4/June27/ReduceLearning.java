@@ -21,6 +21,8 @@ public class ReduceLearning {
         ls2.ifPresent(System.out::println);
         System.out.println(ls1);
         System.out.println(ls2);
+        Integer ls3=ls.stream().reduce(0,(n1,n2)->n1==n2?n1:n2);
+        System.out.println(ls3);
 
     }
 }
