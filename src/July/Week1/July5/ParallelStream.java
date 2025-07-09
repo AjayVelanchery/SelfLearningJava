@@ -3,6 +3,7 @@ package July.Week1.July5;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class ParallelStream {
 
@@ -46,6 +47,11 @@ public class ParallelStream {
                         return student.getAge()>25;})
                 .map(student -> student.getStudentname())
                 .forEach(studentName -> System.out.println(studentName));
+        getStudentList()
+                .parallelStream()
+                .filter(student -> student.getStudentname().startsWith("A"))
+                .collect(Collectors.toList())
+                .forEach(System.out::println);
 
 
     }
