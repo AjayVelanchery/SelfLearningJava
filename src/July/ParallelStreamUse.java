@@ -1,4 +1,4 @@
-package July.Week1.July5;
+package July;
 
 import java.util.stream.LongStream;
 

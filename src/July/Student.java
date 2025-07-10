@@ -1,4 +1,4 @@
-package July.Week1.July5;
+package July;
 
 public class Student {
 private int id;
