@@ -1,0 +1,25 @@
+package com.ajay.myapp1;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Dev {
+
+@Autowired
+private Computer comp;
+
+//  private   Laptop laptop;
+//  public Dev (Laptop laptop){
+//      this.laptop=laptop;
+//  }
+//@Autowired
+//    public  void setLaptop(Laptop laptop){
+//        this.laptop=laptop;
+//    }
+    public  void build(){
+        System.out.println("working on awesome project");
+        comp.compile();
+
+    }
+}
