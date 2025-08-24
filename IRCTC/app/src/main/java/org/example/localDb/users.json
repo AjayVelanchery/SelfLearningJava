@@ -1,0 +1,26 @@
+[{
+  "user_id": "U123",
+  "name": "Ajay",
+  "hashed_password": "hashedPasswordValue",
+  "tickets_booked": [
+    {
+      "source": "Chennai",
+      "destination": "Bangalore",
+      "date_of_travel": "2025-09-10T18:30:00Z",
+      "train": {
+        "train_id": "TR001",
+        "train_no": "12657",
+        "seats": [
+          [1, 0, 1, 1],
+          [0, 1, 1, 0]
+        ],
+        "stations": {
+          "Chennai": "06:30:00",
+          "Vellore": "08:15:00",
+          "Bangalore": "11:00:00"
+        }
+      }
+    }
+  ]
+}
+]
