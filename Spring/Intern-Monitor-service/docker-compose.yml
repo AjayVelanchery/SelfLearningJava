@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:16
+    container_name: intern_monitor_postgres
+    environment:
+      POSTGRES_USER: intern_user
+      POSTGRES_PASSWORD: intern_pass
+      POSTGRES_DB: intern_monitor
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

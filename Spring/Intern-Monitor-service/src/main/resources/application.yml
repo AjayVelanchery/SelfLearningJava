@@ -1,0 +1,22 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/intern_monitor
+    username: intern_user
+    password: intern_pass
+
+  flyway:
+    url: jdbc:postgresql://localhost:5432/intern_monitor
+    user: intern_user
+    password: intern_pass
+    locations: classpath:db/migration
+    schemas: public
+    baseline-on-migrate: true
+    clean-on-validation-error: true
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.prodexa: DEBUG
