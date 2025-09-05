@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/.idea/KhunalDSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/ArrayOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/out/production/KhunalDSA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/out/production/KhunalDSA/.idea/KhunalDSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/out/production/KhunalDSA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/out/production/KhunalDSA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/out/production/KhunalDSA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KhunalDSA/out/production/KhunalDSA/ArrayOperations.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +71,7 @@
     "Application.Abstraction.executor": "Run",
     "Application.AgeCalculator.executor": "Run",
     "Application.Array.executor": "Debug",
+    "Application.ArrayOperations.executor": "Run",
     "Application.ArraylitstLearn.executor": "Run",
     "Application.BankAccount.executor": "Run",
     "Application.BookService.executor": "Run",
@@ -96,6 +109,7 @@
     "Application.Lambdexpression.executor": "Run",
     "Application.LambdexpressionDemo1.executor": "Run",
     "Application.LearnPrivate.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
     "Application.LinkdelistLearning.executor": "Run",
     "Application.LinkedHashmapDemo.executor": "Run",
     "Application.LocalClock.executor": "Run",
@@ -161,7 +175,7 @@
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/bridgeon/IRCTC",
+    "last_opened_file_path": "/home/bridgeon/Documents/Java/SelfLearningJava",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
@@ -177,6 +191,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Week3/June23" />
     </key>
     <key name="CreateTestDialog.RecentsKey">

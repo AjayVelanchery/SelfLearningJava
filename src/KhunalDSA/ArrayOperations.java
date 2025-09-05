@@ -10,6 +10,9 @@ public  class ArrayOperations {
         System.out.println(Arrays.toString(arr));
 
         System.out.println("maximum element="+max(arr));
+
+        reverse(arr);
+        System.out.println(Arrays.toString(arr));
     }
 
 
@@ -19,6 +22,17 @@ public  class ArrayOperations {
         arr1[b]=temp;
 
     }
+
+    static void reverse(int []arr1){
+        int start=0;
+        int end=arr1.length-1;
+       while(start<end){
+        int temp=arr1[start];
+        arr1[start]=arr1[end];
+        arr1[end]=temp;
+        start++;
+        end--;
+    }}
 
     static int max(int []arr1){
         int max=arr1[0];
