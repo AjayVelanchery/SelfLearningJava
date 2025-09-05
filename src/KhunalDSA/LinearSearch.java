@@ -1,5 +1,7 @@
 package KhunalDSA;
 
+import java.util.Arrays;
+
 public class LinearSearch {
 
 
@@ -16,21 +18,21 @@ public class LinearSearch {
                 {33,4,5,31}};
     int target=5;
 
-        System.out.println(search2d(arr,target));
+        System.out.println(Arrays.toString(search2d(arr,target)));
     }
 
-    static boolean search2d(int [][]arr,int target){
+    static int[] search2d(int [][]arr,int target){
 
         for(int row=0;row< arr.length;row++){
 
             for(int column=0;column<arr[row].length;column++){
 
                 if(arr[row][column]==target){
-                    return true;
+                    return new int[]{row,column};
                 }
             }
         }
-        return false;
+        return new int[]{-1,-1};
     }
 
 
