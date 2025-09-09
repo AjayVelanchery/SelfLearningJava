@@ -66,6 +66,7 @@
     "Application.Calculator.executor": "Run",
     "Application.CalculatorImp1.executor": "Run",
     "Application.CheckedandUncheked.executor": "Run",
+    "Application.CielingOfNumber.executor": "Run",
     "Application.ConsumerDemo.executor": "Run",
     "Application.CustomException.executor": "Run",
     "Application.DataTypes.executor": "Run",
