@@ -127,6 +127,7 @@
     "Application.RBS.executor": "Run",
     "Application.ReduceLearning.executor": "Run",
     "Application.Review.executor": "Run",
+    "Application.ReviewQuestions.executor": "Run",
     "Application.RotationCount.executor": "Run",
     "Application.RunException.executor": "Run",
     "Application.Search.executor": "Run",
