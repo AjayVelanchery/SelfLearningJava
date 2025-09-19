@@ -1,4 +1,4 @@
-package KhunalDSA.out.production.KhunalDSA.BubbleSort;
+package KhunalDSA.out.production.KhunalDSA.Sort;
 
 import java.util.Arrays;
 
@@ -12,6 +12,7 @@ public class BubbleSort {
         System.out.println(Arrays.toString(bubbleSort(arr,n)));
 
     }
+
 
     static int[] bubbleSort(int []arr,int n){
 
