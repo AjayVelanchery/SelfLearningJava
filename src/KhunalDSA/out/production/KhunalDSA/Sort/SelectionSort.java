@@ -27,7 +27,7 @@ static void swap(int[]arr,int first,int second){
      static int getMaxIndex(int[] arr, int start, int end) {
 
     int max=start;
-    for (int i=start;i<end;i++){
+    for (int i=start;i<=end;i++){
         if(arr[max]<arr[i]){
             max=i;
         }
