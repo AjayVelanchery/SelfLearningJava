@@ -21,7 +21,7 @@ public class Ticket {
     }
     public String getTicketInfo(){
 
-        return String.format("Ticket Id: %s belongs to User %s from %s to %s on %s",ticketId,userId,source,destination);
+        return String.format("Ticket Id: %s belongs to the User %s from %s to %s on %s",ticketId,userId,source,destination);
     }
 
 
