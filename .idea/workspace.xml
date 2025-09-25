@@ -161,6 +161,7 @@
     "Application.Test.executor": "Run",
     "Application.ThisAndSuper.executor": "Run",
     "Application.ThreadTester.executor": "Run",
+    "Application.Topic1.executor": "Run",
     "Application.TryCatch.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.UnderException.executor": "Run",
@@ -203,7 +204,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern4">
+  <component name="RunManager" selected="Application.NumbersExample">
     <configuration name="NumberPattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.pattern.NumberPattern4" />
       <module name="SelfLearningJava" />
@@ -217,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.String.Palindrome" />
+    <configuration name="NumbersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.NumbersExample" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.String.*" />
+          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +257,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.pattern.pattern1" />
+    <configuration name="Topic1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Topic1" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.pattern.*" />
+          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumbersExample" />
+        <item itemvalue="Application.Topic1" />
         <item itemvalue="Application.Pattern4" />
         <item itemvalue="Application.NumberPattern4" />
         <item itemvalue="Application.Pattern3" />
-        <item itemvalue="Application.pattern1" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
