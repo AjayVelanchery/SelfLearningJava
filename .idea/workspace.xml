@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/KhunalDSA/out/production/KhunalDSA/Recursion/NumbersExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/KhunalDSA/out/production/KhunalDSA/Recursion/NumbersExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/NumbersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/NumbersExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
     "Application.ArrayOperations.executor": "Run",
     "Application.ArraylitstLearn.executor": "Run",
     "Application.BankAccount.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
     "Application.BookService.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.Calculator.executor": "Run",
@@ -80,7 +79,7 @@
     "Application.Even.executor": "Run",
     "Application.ExceptionThrows.executor": "Run",
     "Application.Factorial.executor": "Run",
-    "Application.Fibonacci.executor": "Run",
+    "Application.Fibonacci.executor": "Debug",
     "Application.FileWriting.executor": "Run",
     "Application.FilterLearning.executor": "Run",
     "Application.ForEachDemo.executor": "Run",
@@ -208,9 +207,9 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Fibonacci" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.BinarySearch" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
@@ -222,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.pattern.NumberPattern4" />
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Fibonacci" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.pattern.*" />
+          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.NumbersExample" />
         <item itemvalue="Application.Topic1" />
         <item itemvalue="Application.Pattern4" />
-        <item itemvalue="Application.NumberPattern4" />
       </list>
     </recent_temporary>
   </component>
@@ -407,6 +406,11 @@
           <url>file://$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/NumbersExample.java</url>
           <line>34</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/Fibonacci.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/BinarySearch/BInary2D/RowColumnMatrix.java</url>
