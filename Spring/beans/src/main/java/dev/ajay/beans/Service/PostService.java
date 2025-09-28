@@ -7,6 +7,6 @@ public class PostService {
 
 
     public String findAll(){
-        return "All posts";
+        return "All posts are returned";
     }
 }
