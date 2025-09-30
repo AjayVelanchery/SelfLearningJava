@@ -25,14 +25,14 @@ public class NumbersExample {
 //    static void print5(int n){
 //        System.out.println(n);
 
-    static void print1(int n){
-
-        if(n==5){
-            System.out.println(n);
-            return;
-        }
-        System.out.println(n);
-        print1(n+1);
+//    static void print1(int n){
+//
+//        if(n==5){
+//            System.out.println(n);
+//            return;
+//        }
+//        System.out.println(n);
+//        print1(n+1);
     }
 
 
