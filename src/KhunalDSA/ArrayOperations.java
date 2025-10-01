@@ -12,7 +12,7 @@ public  class ArrayOperations {
         System.out.println("maximum element="+max(arr));
 
         reverse(arr);
-        System.out.println(Arrays.toString(arr));
+        System.out.println("New Array"Arrays.toString(arr));
     }
 
 
