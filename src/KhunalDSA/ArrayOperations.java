@@ -1,3 +1,5 @@
+package KhunalDSA;
+
 import java.util.Arrays;
 
 public  class ArrayOperations {
@@ -12,7 +14,7 @@ public  class ArrayOperations {
         System.out.println("maximum element="+max(arr));
 
         reverse(arr);
-        System.out.println("New Array"Arrays.toString(arr));
+        System.out.println("New Array"+Arrays.toString(arr));
     }
 
 
