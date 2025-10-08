@@ -221,7 +221,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Sorted">
+  <component name="RunManager" selected="Application.LinearSearch">
     <configuration name="CountZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.CountZero" />
       <module name="SelfLearningJava" />
@@ -235,8 +235,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Factorial" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.LinearSearch" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
@@ -289,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.Sorted" />
         <item itemvalue="Application.CountZero" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.SumofDigits" />
-        <item itemvalue="Application.Factorial" />
       </list>
     </recent_temporary>
   </component>
