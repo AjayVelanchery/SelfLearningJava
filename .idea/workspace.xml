@@ -156,6 +156,7 @@
     "Application.SortDemoMap.executor": "Run",
     "Application.SortExample.executor": "Run",
     "Application.SortListDemo.executor": "Run",
+    "Application.Sorted.executor": "Run",
     "Application.SortedMatrix.executor": "Run",
     "Application.SortedStreamDemo.executor": "Run",
     "Application.Sorting.executor": "Run",
@@ -220,7 +221,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountZero">
+  <component name="RunManager" selected="Application.Sorted">
     <configuration name="CountZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.CountZero" />
       <module name="SelfLearningJava" />
@@ -247,8 +248,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Nto1" />
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Reverse" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
@@ -260,8 +261,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Reverse" />
+    <configuration name="Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Sorted" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
@@ -288,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sorted" />
         <item itemvalue="Application.CountZero" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.SumofDigits" />
         <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.Nto1" />
       </list>
     </recent_temporary>
   </component>
