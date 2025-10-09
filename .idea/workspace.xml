@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/KhunalDSA/out/production/KhunalDSA/Recursion/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/KhunalDSA/out/production/KhunalDSA/Recursion/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/LinearSearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +177,7 @@
     "Application.ThisAndSuper.executor": "Run",
     "Application.ThreadTester.executor": "Run",
     "Application.Topic1.executor": "Run",
+    "Application.Triangle.executor": "Run",
     "Application.TryCatch.executor": "Run",
     "Application.TypeConversion.executor": "Run",
     "Application.UnderException.executor": "Run",
@@ -223,7 +222,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RBS">
+  <component name="RunManager" selected="Application.Triangle">
     <configuration name="CountZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.CountZero" />
       <module name="SelfLearningJava" />
@@ -263,19 +262,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Reverse" />
-      <module name="SelfLearningJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.Recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Sorted" />
       <module name="SelfLearningJava" />
@@ -289,13 +275,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Pattern.Triangle" />
+      <module name="SelfLearningJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KhunalDSA.out.production.KhunalDSA.Recursion.Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.RBS" />
         <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.Sorted" />
         <item itemvalue="Application.CountZero" />
-        <item itemvalue="Application.Reverse" />
       </list>
     </recent_temporary>
   </component>
