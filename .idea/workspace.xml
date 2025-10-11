@@ -117,6 +117,7 @@
     "Application.Main.executor": "Run",
     "Application.MapVsFlatMap.executor": "Run",
     "Application.Maxnumbers.executor": "Run",
+    "Application.MergeSort.executor": "Run",
     "Application.MethodReferene.executor": "Run",
     "Application.Methods.executor": "Run",
     "Application.Multiplication.executor": "Run",
@@ -222,7 +223,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Pattern.BubbleSort" />
       <module name="SelfLearningJava" />
@@ -236,8 +237,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.LinearSearch" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.MergeSort" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
@@ -290,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Triangle" />
         <item itemvalue="Application.RBS" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
