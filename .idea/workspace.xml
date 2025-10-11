@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SelfLearningJava/KhunalDSA/out/production/KhunalDSA/Recursion/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SelfLearningJava/KhunalDSA/out/production/KhunalDSA/Recursion/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/QuickSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +146,7 @@
     "Application.PredicateDemo.executor": "Run",
     "Application.Prime.executor": "Debug",
     "Application.PrimeNumber.executor": "Run",
+    "Application.QuickSort.executor": "Run",
     "Application.RBS.executor": "Run",
     "Application.ReduceLearning.executor": "Run",
     "Application.Reverse.executor": "Run",
@@ -223,7 +226,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.QuickSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.Pattern.BubbleSort" />
       <module name="SelfLearningJava" />
@@ -250,8 +253,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RBS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.RBS" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KhunalDSA.out.production.KhunalDSA.Recursion.QuickSort" />
       <module name="SelfLearningJava" />
       <extension name="coverage">
         <pattern>
@@ -291,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Triangle" />
-        <item itemvalue="Application.RBS" />
       </list>
     </recent_temporary>
   </component>
