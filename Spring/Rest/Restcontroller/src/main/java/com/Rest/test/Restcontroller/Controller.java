@@ -40,6 +40,6 @@ public class Controller {
                 return "Data Updated Successfully";
             }
         }
-        return "Detail with ID " + id + " not found";
+        return "Detail with ID " + id + " not founded";
     }
 }
