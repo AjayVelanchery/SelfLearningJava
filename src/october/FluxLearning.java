@@ -20,7 +20,7 @@ public class FluxLearning {
     processedflux.subscribe(
             data-> System.out.println("Fruits: "+data),
             error-> System.err.println("Error"+error.getMessage()),
-            ()-> System.out.println("flux stream finished")
+            ()-> System.out.println("flux stream finshed")
 
     );
     }
