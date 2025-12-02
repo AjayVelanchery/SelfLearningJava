@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27d365bb-6ce6-4228-9009-8eebb9d64987" name="Changes" comment="June 11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/backtracking/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KhunalDSA/out/production/KhunalDSA/Recursion/backtracking/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/october/FluxLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/october/FluxLearning.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +95,7 @@
     &quot;Application.GenericsLearning.executor&quot;: &quot;Run&quot;,
     &quot;Application.GradeCalculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapLearning.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashSetDemo2.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashSetDemo3.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashsetLearning.executor&quot;: &quot;Run&quot;,
@@ -232,7 +233,7 @@
       <recent name="June13" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maze">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MachineTest.Calculator" />
       <module name="SelfLearningJava" />
