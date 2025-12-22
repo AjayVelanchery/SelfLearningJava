@@ -10,7 +10,7 @@ public class StringTaskFintrens {
         String[] words = {
                 "ajay vijay sanjay ajay",
                 "raju shamu gopu",
-                "raju ajay vijay ajay"
+                "raju ajay vijay "
         };
 
 
